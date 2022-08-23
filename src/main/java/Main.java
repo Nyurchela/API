@@ -1,3 +1,6 @@
+import ru.netology.api.FormDate;
+import ru.netology.api.Post;
+
 public class Main {
     public static void main(String[] args) {
 

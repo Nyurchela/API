@@ -1,3 +1,4 @@
+package ru.netology.api;
 public class FormDate {
     public int day;
     public int month;

@@ -1,3 +1,4 @@
+package ru.netology.api;
 public class Post {
     public String name; // поле для имени
     public String passport;
